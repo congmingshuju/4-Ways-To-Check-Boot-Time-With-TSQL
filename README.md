@@ -1,4 +1,7 @@
 <a href="#"><img src="https://mikesdatawork.files.wordpress.com/2019/11/clever-data-gist-e.png" title="聪明数据" alt="聪明数据"></a>
+![聪明数据](congmingshuju/git-resources/images/clever-data-gist-z5.png "Clever Data Repo - Lee Songming")
+
+![Lee Songming](congmingshuju/git-resources/blob/master/images/clever-data-gist-e.png "Clever Data Repo")
 
 
 # 4种用TSQL检查启动时间的方法
@@ -73,5 +76,5 @@ from
 ## License
 [![forthebadge](https://forthebadge.com/images/badges/cc-sa.svg)](https://creativecommons.org/share-your-work/licensing-types-examples/)
 
-
+![聪明数据](congmingshuju/git-resources/images/clever-data-gist-z5.png "Clever Data Repo - Lee Songming")
 <a href="http://#"><img src="https://mikesdatawork.files.wordpress.com/2019/11/banner_red_bottom_red_sql.png" title="聪明数据" alt="聪明数据"></a>
