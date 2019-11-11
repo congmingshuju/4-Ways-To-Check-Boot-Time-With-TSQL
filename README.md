@@ -1,7 +1,7 @@
 ![Lee Songming](https://github.com/congmingshuju/git-resources/blob/master/images/0-clever-data-github.png "李聪明 数据")
 
 
-# 4种用TSQL检查启动时间的方法
+# 4种用SQL检查启动时间的方法
 **发布-日期: 2017年11月10日 (评论)**
 
 ![Check Boot Time With SQL](images/image0012.png?raw=true "SQL Boot Time")
