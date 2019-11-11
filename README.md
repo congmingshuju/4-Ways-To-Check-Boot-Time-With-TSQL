@@ -10,7 +10,7 @@
 
 - [中文](#中文)
 - [English](#English)
-- [SQL](#Logic)
+- [SQL-Logic](#Logic)
 - [Build Quality](#Build-Quality)
 - [Author](#Author)
 - [License](#License) 
