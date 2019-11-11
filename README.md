@@ -1,4 +1,4 @@
-![Lee Songming](https://github.com/congmingshuju/git-resources/blob/master/images/clever-data-gist-e.png "聪明数据")
+![Lee Songming](https://github.com/congmingshuju/git-resources/blob/master/images/0-clever-data-github.png "李聪明 数据")
 
 
 # 4种用TSQL检查启动时间的方法
@@ -61,11 +61,11 @@ from
 
 ## Author
 
-- **聪明数据 Clever Data**
+- **李聪明 数据 Clever Data**
 - **Mike的数据库宝典 Mikes Database Collection**
 - **李聪明** "Lee Songming"
 
-[![Gist](https://img.shields.io/badge/Gist-聪明数据-<COLOR>.svg)](https://gist.github.com/congmingshuju)
+[![Gist](https://img.shields.io/badge/Gist-李聪明数据-<COLOR>.svg)](https://gist.github.com/congmingshuju)
 [![Twitter](https://img.shields.io/badge/Twitter-mike的数据库宝典-<COLOR>.svg)](https://twitter.com/mikesdatawork?lang=en)
 [![Wordpress](https://img.shields.io/badge/Wordpress-mike的数据库宝典-<COLOR>.svg)](https://mikesdatawork.wordpress.com/)
 
@@ -73,4 +73,4 @@ from
 ## License
 [![LicenseCCSA](https://img.shields.io/badge/License-CreativeCommonsSA-<COLOR>.svg)](https://creativecommons.org/share-your-work/licensing-types-examples/)
 
-![Lee Songming](https://github.com/congmingshuju/git-resources/blob/master/images/clever-data-gist-z5.png "聪明数据")
+![Lee Songming](https://github.com/congmingshuju/git-resources/blob/master/images/clever-data-gist-z5.png "李聪明 数据")
